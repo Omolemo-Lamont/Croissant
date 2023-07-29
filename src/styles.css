@@ -24,3 +24,8 @@ img {
 .text-reset {
     color: rgb(69, 37, 3);
 }
+
+a {
+    margin: 0 5px;
+    color: rgba(41, 24, 2, 0.956);
+}
