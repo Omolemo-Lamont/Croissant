@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(226, 191, 150);
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+img {
+    max-width: 50%;
+    border-radius: 20px;
+    display: block;
+    margin: 30px auto;
+}
+
+.introduction {
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.text-reset {
+    color: rgb(69, 37, 3);
+}
